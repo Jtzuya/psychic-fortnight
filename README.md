@@ -1,2 +1,2 @@
-# psychic-fortnight
-Shopify Collections Page WEB SCRAPER w/ Puppeteer
+###### psychic-fortnight
+- Change Shopify collection endpoint to scrape a specific website. 
